@@ -1,0 +1,6 @@
+{
+  "name": "NearBuy - Premium Hyperlocal Marketplace",
+  "description": "Discover local stores, compare prices across neighborhood merchants, and get fast delivery or store pickup.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
